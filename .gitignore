@@ -209,3 +209,4 @@ __marimo__/
 
 students.csv
 *.csv
+.DS_Store
